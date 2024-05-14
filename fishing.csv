@@ -1,0 +1,155 @@
+﻿Boat,Catch,Depth,Sea,Value,Experienced,Port ,Boat_Age,General,Search,Time,Rank
+1,43,shallow,2,68,yes,West,old,above av,adequate,140.0,8
+2,43,shallow,1,84,yes,East,old,average,sophisticated,82.0,8.75
+3,41,shallow,3,62,no,East,new,above av,sophisticated,91.0,5.25
+4,50,shallow,5,86,yes,East,new,average,adequate,157.0,7.25
+5,35,deep,3,85,no,East,new,average,adequate,136.0,6.5
+6,53,shallow,4,86,yes,East,new,above av,sophisticated,74.0,9
+7,41,deep,3,31,yes,East,old,above av,adequate,131.0,4.25
+8,30,shallow,2,84,no,East,new,average,adequate,116.0,7.5
+9,36,deep,4,59,no,East,old,above av,sophisticated,77.0,5
+10,51,shallow,4,86,yes,East,old,above av,adequate,158.0,7.75
+11,39,shallow,5,66,no,East,new,average,adequate,119.0,5.25
+12,42,shallow,2,40,no,East,new,above av,sophisticated,52.0,5
+13,39,deep,4,44,no,East,new,above av,sophisticated,66.0,5
+14,46,shallow,1,86,yes,West,old,above av,adequate,130.0,8.75
+15,43,shallow,4,57,yes,East,old,above av,sophisticated,79.0,5.75
+16,42,deep,3,62,no,East,new,above av,adequate,125.0,5
+17,41,shallow,3,84,yes,East,old,average,adequate,135.0,5.5
+18,43,deep,4,54,yes,East,old,average,adequate,131.0,8.75
+19,41,shallow,1,52,yes,East,new,above av,sophisticated,60.0,6.5
+20,54,shallow,2,86,yes,West,old,average,sophisticated,102.0,6.25
+21,42,deep,3,75,yes,East,old,above av,adequate,119.0,7.5
+22,50,shallow,4,83,yes,East,old,above av,sophisticated,94.0,7.5
+23,30,shallow,3,35,no,East,new,above av,adequate,91.0,4.5
+24,52,deep,1,90,yes,East,new,average,sophisticated,87.0,6.75
+25,42,shallow,2,67,yes,West,new,above av,sophisticated,91.0,6.5
+26,37,shallow,5,32,no,East,old,average,adequate,83.0,5.75
+27,30,shallow,2,41,no,East,new,above av,adequate,113.0,4.25
+28,36,deep,4,69,yes,East,new,above av,sophisticated,91.0,4.5
+29,38,shallow,4,67,yes,West,new,above av,sophisticated,74.0,5.5
+30,31,shallow,4,47,no,East,new,average,adequate,100.0,5
+31,39,deep,3,82,yes,East,old,average,adequate,136.0,5
+32,42,shallow,4,53,yes,East,new,above av,sophisticated,84.0,7
+33,33,shallow,2,40,no,West,new,average,adequate,121.0,5.25
+34,48,shallow,4,85,yes,East,old,above av,sophisticated,81.0,7.25
+35,40,deep,4,62,yes,East,old,above av,sophisticated,59.0,4
+36,42,deep,5,85,yes,East,new,average,sophisticated,85.0,6
+37,41,shallow,3,49,yes,East,new,average,sophisticated,88.0,5.5
+38,42,shallow,2,59,yes,West,old,above av,sophisticated,98.0,5
+39,44,shallow,1,59,no,East,old,average,sophisticated,100.0,6.75
+40,44,shallow,2,55,no,East,new,average,sophisticated,71.0,6
+41,33,deep,5,40,yes,East,old,above av,adequate,108.0,5.75
+42,44,shallow,2,65,yes,East,new,average,sophisticated,102.0,7
+43,43,deep,4,74,yes,East,new,above av,sophisticated,69.0,9.25
+44,41,deep,4,63,yes,East,new,average,sophisticated,78.0,5.75
+45,43,deep,3,54,no,East,old,average,adequate,140.0,7.25
+46,35,shallow,1,29,no,West,new,above av,adequate,113.0,7.25
+47,51,shallow,2,86,yes,East,old,above av,adequate,135.0,7.25
+48,50,shallow,2,87,yes,East,old,average,sophisticated,94.0,7
+49,45,shallow,4,60,yes,East,new,average,sophisticated,103.0,8.75
+50,36,deep,4,41,yes,East,new,average,adequate,116.0,4.75
+51,52,shallow,2,84,yes,East,new,average,adequate,147.0,7.75
+52,48,shallow,1,87,yes,East,new,average,sophisticated,129.0,8.75
+53,42,deep,4,62,yes,East,old,average,adequate,133.0,7.75
+54,43,shallow,2,82,yes,East,old,average,sophisticated,86.0,7.5
+55,47,shallow,2,70,yes,West,new,above av,sophisticated,75.0,6
+56,34,deep,4,64,no,East,new,average,adequate,141.0,6.5
+57,43,shallow,2,65,yes,East,new,above av,sophisticated,79.0,7.25
+58,34,deep,3,33,yes,East,new,above av,adequate,107.0,5.25
+59,43,shallow,4,41,yes,East,old,average,adequate,161.0,6.5
+60,41,shallow,1,64,no,West,old,average,adequate,147.0,5.5
+61,35,shallow,2,57,yes,East,old,average,sophisticated,76.0,4.5
+62,36,shallow,2,38,no,East,old,average,adequate,107.0,4.75
+63,47,shallow,2,85,yes,East,new,above av,sophisticated,86.0,8.75
+64,50,shallow,1,83,yes,East,old,average,sophisticated,105.0,7.25
+65,36,shallow,2,66,no,East,old,average,adequate,113.0,7
+66,42,shallow,5,56,no,East,new,average,sophisticated,92.0,4.5
+67,52,shallow,2,83,yes,East,old,above av,sophisticated,102.0,9.25
+68,31,deep,5,53,no,East,old,above av,adequate,126.0,6
+69,41,shallow,2,50,yes,East,new,above av,sophisticated,73.0,3.75
+70,37,deep,4,66,no,East,old,above av,sophisticated,51.0,4.75
+71,41,deep,4,63,yes,East,new,above av,adequate,124.0,5.25
+72,33,deep,5,44,no,East,old,average,adequate,110.0,5
+73,35,shallow,2,46,no,West,old,above av,sophisticated,81.0,6
+74,40,deep,5,64,no,East,new,above av,sophisticated,79.0,4.75
+75,34,deep,3,52,no,East,old,average,adequate,110.0,4.25
+76,45,shallow,2,59,yes,East,new,average,sophisticated,102.0,7
+77,44,deep,3,62,yes,East,new,average,sophisticated,72.0,7.5
+78,36,shallow,2,38,no,East,old,average,adequate,130.0,5.25
+79,42,shallow,2,84,yes,East,new,above av,sophisticated,97.0,5.25
+80,41,shallow,4,57,yes,West,new,above av,sophisticated,65.0,5
+81,42,shallow,1,58,yes,East,new,average,sophisticated,102.0,5
+82,41,deep,4,86,yes,East,old,above av,adequate,106.0,4.5
+83,35,shallow,5,36,yes,East,new,average,adequate,129.0,5.25
+84,35,shallow,5,66,no,East,old,average,adequate,124.0,3.75
+85,42,deep,5,85,yes,East,new,above av,adequate,115.0,5
+86,44,shallow,2,88,yes,East,old,above av,adequate,146.0,7.25
+87,45,shallow,3,64,no,East,old,above av,sophisticated,84.0,8
+88,45,deep,5,65,yes,East,new,above av,sophisticated,87.0,6.25
+89,43,shallow,4,64,yes,East,new,above av,sophisticated,84.0,7
+90,44,shallow,1,55,yes,East,old,average,adequate,117.0,7
+91,36,deep,4,41,no,East,new,average,adequate,107.0,5
+92,31,deep,4,59,no,East,old,average,adequate,112.0,6.5
+93,41,shallow,2,63,yes,East,old,above av,sophisticated,101.0,5.25
+94,41,shallow,2,46,yes,West,old,average,adequate,139.0,4.25
+95,43,shallow,1,55,no,East,new,above av,sophisticated,88.0,5.5
+96,40,shallow,4,62,no,East,new,above av,sophisticated,60.0,7.25
+97,42,shallow,5,85,yes,East,new,average,adequate,153.0,7
+98,32,shallow,3,69,no,East,old,above av,sophisticated,69.0,7
+99,50,shallow,4,87,yes,East,new,above av,sophisticated,104.0,7
+100,50,shallow,2,84,yes,West,old,above av,sophisticated,80.0,9.5
+101,42,shallow,3,69,yes,East,new,above av,sophisticated,74.0,6
+102,43,shallow,2,56,yes,East,new,average,sophisticated,94.0,7.25
+103,42,shallow,3,85,yes,West,old,average,adequate,139.0,5.75
+104,45,shallow,5,60,yes,East,new,average,adequate,159.0,7.5
+105,52,deep,3,88,yes,East,new,average,adequate,146.0,6.25
+106,54,shallow,4,88,yes,East,new,above av,sophisticated,100.0,9.25
+107,47,shallow,4,90,yes,West,old,average,adequate,164.0,8.75
+108,42,deep,4,65,no,East,new,above av,sophisticated,88.0,6
+109,40,shallow,2,53,yes,East,old,average,adequate,136.0,7.25
+110,50,shallow,1,82,yes,West,new,average,sophisticated,107.0,7
+111,43,shallow,2,59,yes,East,new,average,adequate,154.0,9.75
+112,53,deep,4,83,yes,East,old,average,sophisticated,103.0,7.75
+113,44,shallow,2,43,no,East,new,average,sophisticated,86.0,8
+114,52,deep,3,86,yes,West,old,average,adequate,167.0,8.75
+115,41,deep,4,58,yes,East,old,average,adequate,120.0,4.5
+116,50,shallow,1,84,yes,East,old,above av,sophisticated,117.0,9.25
+117,36,shallow,5,64,no,East,new,average,sophisticated,77.0,7
+118,50,shallow,4,86,yes,East,old,average,sophisticated,108.0,7.5
+119,51,shallow,3,82,yes,East,old,above av,adequate,176.0,9.25
+120,36,shallow,2,61,no,East,old,average,adequate,148.0,5
+121,34,deep,4,53,no,East,old,average,adequate,102.0,7.25
+122,49,shallow,1,87,yes,West,old,average,adequate,156.0,9.25
+123,42,shallow,2,63,no,East,new,above av,sophisticated,84.0,5.25
+124,48,shallow,4,89,yes,East,new,above av,sophisticated,100.0,6.75
+125,50,shallow,2,87,yes,West,old,average,adequate,128.0,8.5
+126,44,shallow,4,48,no,East,new,above av,sophisticated,79.0,7
+127,44,shallow,3,59,yes,East,new,average,adequate,131.0,7.25
+128,49,shallow,1,85,yes,East,new,above av,sophisticated,76.0,7
+129,43,shallow,3,59,yes,East,new,above av,sophisticated,76.0,8.25
+130,34,deep,4,87,no,East,old,average,adequate,153.0,7.5
+131,47,deep,5,87,yes,East,new,above av,sophisticated,99.0,7
+132,49,deep,4,59,yes,East,new,average,adequate,148.0,7.5
+133,45,shallow,2,58,yes,East,old,average,sophisticated,98.0,8
+134,45,deep,4,83,yes,East,old,above av,sophisticated,66.0,7.75
+135,39,deep,5,71,yes,East,old,above av,sophisticated,90.0,5
+136,54,shallow,5,88,yes,East,old,average,adequate,144.0,6.75
+137,33,shallow,2,49,no,East,new,average,adequate,120.0,5.75
+138,39,shallow,2,60,yes,East,old,above av,sophisticated,79.0,5
+139,47,shallow,3,86,yes,East,new,above av,sophisticated,90.0,9.5
+140,46,deep,5,64,yes,East,new,average,sophisticated,71.0,9
+141,50,shallow,3,58,yes,East,new,average,adequate,155.0,7
+142,42,deep,4,53,yes,East,new,average,sophisticated,74.0,5.75
+143,37,deep,4,54,no,East,old,average,adequate,138.0,5.25
+144,43,shallow,5,63,yes,West,new,above av,sophisticated,84.0,7
+145,42,deep,4,56,yes,East,old,average,sophisticated,97.0,5
+146,44,deep,4,63,yes,East,old,average,adequate,130.0,7.75
+147,51,shallow,2,87,yes,East,new,above av,sophisticated,144.0,7.5
+148,34,deep,4,41,no,East,new,above av,sophisticated,56.0,4.25
+149,42,deep,4,86,yes,East,new,above av,adequate,130.0,7.25
+150,50,shallow,2,89,yes,West,new,above av,sophisticated,102.0,7
+151,43,deep,4,56,yes,East,old,average,adequate,147.0,8.75
+152,40,shallow,5,69,yes,East,new,above av,sophisticated,73.0,5.25
+,,,,,,,,,,,
+,,,,,,,,,,,
